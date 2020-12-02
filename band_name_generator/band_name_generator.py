@@ -8,4 +8,4 @@ pet_or_food = input(
 )
 #4. Combine the name of their city and pet and show them their band name.
 print("A fantastic name for your band is: "
-      "The " + hometown + pet_or_food + "!")
+      "The " + hometown +" "+pet_or_food + "!")
