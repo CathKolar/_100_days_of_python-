@@ -10,7 +10,7 @@ print('''
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 choice1 = input(
-    'Your\'e at a fork in the road... which path do you take? Type "left" or"right" \n'
+    'Your\'e at a fork in the road... which path do you take? Type "left" or "right" \n'
 ).lower()
 if choice1 == "left":
     choice2 = input(
